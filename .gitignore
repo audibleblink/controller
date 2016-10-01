@@ -60,5 +60,5 @@ compile_commands.json
 
 # External Repos #
 ##################
-kll
-
+**/ICED-R*
+**/ICED-L*
